@@ -951,7 +951,7 @@ a {
   background: none;
 }
 .search:hover {
-  #border: 2px solid #d3d3d3;
+  /*border: 2px solid #d3d3d3;*/
   opacity: 1;
   -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.3);
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
